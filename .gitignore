@@ -1,0 +1,10 @@
+transformer/wandb/
+transformer/venv/
+transformer/model/
+transformer/results/
+transformer/visualisation/
+process_data/
+*.pyc
+*.npy
+.out
+.env
